@@ -1,0 +1,5 @@
+1. ¿Cuál es el comando para borrar la pantalla?
+2. ¿Qué es una ruta absoluta?
+3. ¿Qué es un redireccionamiento?
+4. ¿Cuál es el comodín que sustituye varios caracteres?
+5. ¿Qué es un comando interno?
